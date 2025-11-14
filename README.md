@@ -63,5 +63,5 @@ This project demonstrated:
 ---
 
 ## Files Included
-- `Hospital_Management_System_Writeup.docx` – Full proposal and documentation  
-- `hospital_up_down.sql` – SQL DDL statements for tables and relationships  
+- `Hospital_Management_System_Writeup.pdf` – Full proposal and documentation  
+- `hospital_up_down.sql` – SQL Up-Down Script for tables and relationships  
