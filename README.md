@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project involved designing a relational database to support an efficient **Emergency Transportation System** for hospitals. The goal is to streamline how hospitals track emergency calls, assign ambulances, dispatch EMTs and drivers, record patient pickup/drop-off locations, and ensure patients are directed to the nearest appropriate hospital and doctor.
+This project involved designing a relational database to support an efficient Emergency Transportation System for hospitals. The goal is to streamline how hospitals track emergency calls, assign ambulances, dispatch EMTs and drivers, record patient pickup/drop-off locations, and ensure patients are directed to the nearest appropriate hospital and doctor.
 
 The system replaces unorganized and error-prone paper-based workflows with a structured SQL database that improves coordination, reduces delay, and increases patient care accuracy during emergency events.
 
@@ -45,7 +45,7 @@ This design enhances emergency care coordination and streamlines communication b
 
 ## Users
 
-The primary end users are **hospital staff and administrators**, who rely on the system to:
+The primary end users are hospital staff and administrators, who rely on the system to:
 
 - Track patient movement from pickup to delivery  
 - View assigned drivers, EMTs, vehicles, hospitals, and doctors  
@@ -123,11 +123,11 @@ The database includes the following entities:
 
 ## Files Included
 
-- `README.md` – Project documentation  
-- `Hospital_ER_Transportation_Writeup.pdf` – Full problem description & solution proposal  
-- `hospital_up_down.sql` – SQL script for creating and dropping all tables  
-- `conceptual_model.png` – Conceptual ER diagram  
-- `logical_model.png` – Logical ER model  
-- `ER_Data_Requirements.xlsx` – Full data dictionary / attribute list  
-- `presentation.pdf` – Final project presentation slides  
+- README.md – Project documentation  
+- Hospital_ER_Transportation_Writeup.pdf – Full problem description & solution proposal  
+- hospital_up_down.sql – SQL script for creating and dropping all tables  
+- conceptual_model.png – Conceptual ER diagram  
+- logical_model.png – Logical ER model  
+- ER_Data_Requirements.xlsx – Full data dictionary / attribute list  
+- presentation.pdf – Final project presentation slides  
 
