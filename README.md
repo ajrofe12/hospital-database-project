@@ -88,7 +88,7 @@ The database is organized into the following core entities:
 
 ## Files Included
 
-- [Project Writeup](Final Project Writeup.docx) – Full problem description & solution proposal  
+- [Project Writeup](documents/Final Project Writeup.docx) – Full problem description & solution proposal  
 - hospital_up_down.sql – SQL script for creating and dropping all tables  
 - conceptual_model.png – Conceptual ER diagram  
 - logical_model.png – Logical ER model  
