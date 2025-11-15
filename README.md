@@ -58,59 +58,24 @@ The primary end users are hospital staff and administrators, who rely on the sys
 
 The database includes the following entities:
 
-### **DRIVERS**
-- DriverID  
-- Name  
-- Phone Number  
-- Email  
-- Hire Date  
+### **Entities**
+The database is organized into the following core entities:
 
-### **EMTS**
-- EMTID  
-- Name  
-- Phone Number  
-- Email  
-- Hire Date  
+- **Drivers** – Stores driver information (ID, name, contact details, hire date)
+- **EMTs** – Emergency medical technicians with similar identifying attributes
+- **Doctors** – Includes department and contact information
+- **Patients** – Patient demographics and injury details
+- **Vehicles** – Ambulance details (VIN, make, model)
+- **Locations** – Pickup and drop-off site information
+- **Hospitals** – Hospital address and identifying information
 
-### **DOCTORS**
-- DoctorID  
-- Name  
-- Phone Number  
-- Email  
-- Department  
+### **Key Relationships**
+- Each **patient** is assigned a **driver** and an **EMT**
+- Each patient is transported to a specific **hospital**
+- Each patient has a **pickup** and **drop-off location**
+- Each patient is linked to an assigned **doctor**
+- **Vehicles** are associated with drivers and used during patient transport
 
-### **PATIENTS**
-- PatientID  
-- Name  
-- Phone Number  
-- Injury Description  
-
-### **VEHICLES**
-- VIN  
-- Make  
-- Model  
-
-### **LOCATIONS** (Pickup/Drop-off)
-- LocationID  
-- Street  
-- City  
-- State  
-- Zip Code  
-
-### **HOSPITALS**
-- HospitalID  
-- Street  
-- City  
-- State  
-- Zip Code  
-
-### **RELATIONSHIPS**
-- Patients → Drivers (assigned driver)  
-- Patients → EMTs (assigned EMT)  
-- Patients → Hospitals (drop-off hospital)  
-- Patients → Locations (pickup + drop-off locations)  
-- Doctors → Patients (assigned doctor)  
-- Vehicles → Drivers/Calls (assigned ambulance)  
 
 ---
 
