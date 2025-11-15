@@ -88,10 +88,10 @@ The database is organized into the following core entities:
 
 ## Files Included
 
-- [Project Writeup](documents/final_project_writeup.pdf) – Full problem description & solution proposal  
-- [SQL Script](final_up_down.sql) – SQL script for creating and dropping all tables  
-- [Conceptal Model Diagram](diagrams/conceptual_model.png) – Conceptual ER diagram  
-- [Logical Model Digram](diagrams/logical_model.png) – Logical ER diagram  
-- [ER Data Requirements](documents/ER_data_requirements.xlsx) – Full data dictionary / attribute list  
-- [Final Presentation](documents/presentation.pptx) – Final project presentation slides  
+- [Project Writeup](documents/final_project_writeup.pdf) 
+- [SQL Script](final_up_down.sql) 
+- [Conceptal Model Diagram](diagrams/conceptual_model.png) 
+- [Logical Model Digram](diagrams/logical_model.png)
+- [ER Data Requirements](documents/ER_data_requirements.xlsx)
+- [Final Presentation](documents/presentation.pptx)
 
