@@ -78,12 +78,16 @@ The database is organized into the following core entities:
 
 ---
 
-## Learning Outcomes Demonstrated
+## **Conceptual Model Diagram**
 
-- **Outcome 2:** Designed a normalized relational schema based on real operational requirements  
-- **Outcome 4:** Implemented SQL for table creation, constraints, and relationship mapping  
+![Conceptual Model](diagrams/conceptual_model.png)
+
+## **Logical Model Diagram**
+
+![Logical Model](diagrams/logical_model.png)
 
 ---
+
 
 ## Files Included
 
