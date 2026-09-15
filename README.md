@@ -1,8 +1,7 @@
 # Emergency Hospital Transportation Database System
 
-**Course:** IST 659 – Data Administration Concepts & Database Management  
-**Semester:** Spring 2025  
-**Tools/Technologies:** SQL, ER Modeling, Relational Database Design  
+**Project Type:** Relational Database Design  
+**Tools/Technologies:** SQL, ER Modeling, Relational Database Design
 
 ---
 
@@ -91,10 +90,10 @@ The database is organized into the following core entities:
 
 ## Files Included
 
-- [Project Writeup](documents/final_project_writeup.pdf) 
-- [SQL Script](final_up_down.sql) 
-- [Conceptal Model Diagram](diagrams/conceptual_model.png) 
-- [Logical Model Digram](diagrams/logical_model.png)
-- [ER Data Requirements](documents/ER_data_requirements.xlsx)
-- [Final Presentation](documents/presentation.pptx)
+- [`final_up_down.sql`](final_up_down.sql) – Full SQL script
+- [`documents/final_project_writeup.pdf`](documents/final_project_writeup.pdf) – Project writeup
+- [`documents/presentation.pptx`](documents/presentation.pptx) – Final presentation
+- [`documents/ER_data_requirements.xlsx`](documents/ER_data_requirements.xlsx) – ER data requirements
+- [`diagrams/conceptual_model.png`](diagrams/conceptual_model.png) – Conceptual model diagram
+- [`diagrams/logical_model.png`](diagrams/logical_model.png) – Logical model diagram
 
